@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "eac508880e14b52c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a17829e79d2d381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b54098f9befd3555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traning & Placement/Theory/Time & Space Complexity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time & Space Complexity"
+            }
+          },
+          {
+            "id": "3ea569739392f054",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "117793b7da099681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traning & Placement/Theory/Asymptotic Notations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asymptotic Notations"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31509a025e6c543e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f51995028b17d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faccb91c40e16737",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0d085fd384a6fe31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea81acf81c7179b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c2bcddf23b0b3ecf",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d92e444e7a880898",
+    "type": "split",
+    "children": [
+      {
+        "id": "e57a7d7087f92822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3123df8c171147a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interesting Stuff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Interesting Stuff"
+            }
+          },
+          {
+            "id": "5e0160d6f44c25b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d296a01366e37b49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f0ad9e82f22345b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Traning & Placement/Theory/Asymptotic Notations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Asymptotic Notations"
+            }
+          },
+          {
+            "id": "ac1ce329578ca129",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2acea5320721c2fc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a0a5f08d56914dcd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "faccb91c40e16737",
+  "lastOpenFiles": [
+    "Traning & Placement/Theory/Asymptotic Notations.md",
+    "Untitled.md",
+    "Traning & Placement/Theory/Time & Space Complexity.md",
+    "Traning & Placement/Theory/Fundamentals.md",
+    "Traning & Placement/Contents.md",
+    "Traning & Placement/Theory/Abstract Data Types (ADT).md",
+    "Random Stuff/Interesting Stuff.md",
+    "Random Stuff/Tech Stuff/Algorithms.md",
+    "Traning & Placement/Theory",
+    "Traning & Placement",
+    "Excalidraw/Drawing 2025-02-10 00.47.39.excalidraw.md",
+    "Excalidraw",
+    "Random Stuff/Tech Stuff",
+    "Web Development/Nextjs/Connecting Database in Next Js.md",
+    "Untitled.canvas",
+    "Random Stuff",
+    "Web Development/Nextjs/Next Js Contents.md",
+    "Web Development/Nextjs/ZOD for Validation.md",
+    "Web Development/Nextjs/Setting-up a Next js Project.md",
+    "Web Development/Untitled.md",
+    "Web Development/Nextjs",
+    "Web Development",
+    "2025-02-08.md",
+    "Ghost.md"
+  ]
+}

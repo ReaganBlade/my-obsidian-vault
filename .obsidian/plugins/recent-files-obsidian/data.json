@@ -1,0 +1,52 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Asymptotic Notations",
+      "path": "Traning & Placement/Theory/Asymptotic Notations.md"
+    },
+    {
+      "basename": "Time & Space Complexity",
+      "path": "Traning & Placement/Theory/Time & Space Complexity.md"
+    },
+    {
+      "basename": "Fundamentals",
+      "path": "Traning & Placement/Theory/Fundamentals.md"
+    },
+    {
+      "basename": "Contents",
+      "path": "Traning & Placement/Contents.md"
+    },
+    {
+      "basename": "Abstract Data Types (ADT)",
+      "path": "Traning & Placement/Theory/Abstract Data Types (ADT).md"
+    },
+    {
+      "basename": "Interesting Stuff",
+      "path": "Random Stuff/Interesting Stuff.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "Random Stuff/Tech Stuff/Algorithms.md"
+    },
+    {
+      "basename": "Connecting Database in Next Js",
+      "path": "Web Development/Nextjs/Connecting Database in Next Js.md"
+    },
+    {
+      "basename": "Next Js Contents",
+      "path": "Web Development/Nextjs/Next Js Contents.md"
+    },
+    {
+      "basename": "ZOD for Validation",
+      "path": "Web Development/Nextjs/ZOD for Validation.md"
+    },
+    {
+      "basename": "Setting-up a Next js Project",
+      "path": "Web Development/Nextjs/Setting-up a Next js Project.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
