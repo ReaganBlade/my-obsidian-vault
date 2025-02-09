@@ -241,14 +241,13 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "faccb91c40e16737",
+  "active": "117793b7da099681",
   "lastOpenFiles": [
-    "Traning & Placement/Theory/Asymptotic Notations.md",
     "Untitled.md",
+    "Traning & Placement/Theory/Asymptotic Notations.md",
     "Traning & Placement/Theory/Time & Space Complexity.md",
     "Traning & Placement/Theory/Fundamentals.md",
     "Traning & Placement/Contents.md",
