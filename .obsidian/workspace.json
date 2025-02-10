@@ -11,15 +11,14 @@
             "id": "47975181521e8525",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Traning & Placement/Contents.md",
-                "bFile": "Traning & Placement/Contents.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Traning & Placement/T&P Classes/Monday, Feb 10, 2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Contents"
+              "icon": "lucide-file",
+              "title": "Monday, Feb 10, 2025"
             }
           }
         ]
