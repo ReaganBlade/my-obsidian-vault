@@ -1,40 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Next Js Contents",
-      "path": "Web Development/Nextjs/Next Js Contents.md"
-    },
-    {
-      "basename": "Connecting Database in Next Js",
-      "path": "Web Development/Nextjs/Connecting Database in Next Js.md"
+      "basename": "Monday, Feb 10, 2025",
+      "path": "Traning & Placement/T&P Classes/Monday, Feb 10, 2025.md"
     },
     {
       "basename": "Asymptotic Notations",
       "path": "Traning & Placement/Theory/Asymptotic Notations.md"
-    },
-    {
-      "basename": "Time & Space Complexity",
-      "path": "Traning & Placement/Theory/Time & Space Complexity.md"
-    },
-    {
-      "basename": "Fundamentals",
-      "path": "Traning & Placement/Theory/Fundamentals.md"
-    },
-    {
-      "basename": "Contents",
-      "path": "Traning & Placement/Contents.md"
-    },
-    {
-      "basename": "Abstract Data Types (ADT)",
-      "path": "Traning & Placement/Theory/Abstract Data Types (ADT).md"
-    },
-    {
-      "basename": "Interesting Stuff",
-      "path": "Random Stuff/Interesting Stuff.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "Random Stuff/Tech Stuff/Algorithms.md"
     },
     {
       "basename": "ZOD for Validation",
@@ -43,6 +15,46 @@
     {
       "basename": "Setting-up a Next js Project",
       "path": "Web Development/Nextjs/Setting-up a Next js Project.md"
+    },
+    {
+      "basename": "NextJs",
+      "path": "Web Development/Nextjs/NextJs.md"
+    },
+    {
+      "basename": "Connecting Database in Next Js",
+      "path": "Web Development/Nextjs/Connecting Database in Next Js.md"
+    },
+    {
+      "basename": "Time & Space Complexity",
+      "path": "Traning & Placement/Theory/Time & Space Complexity.md"
+    },
+    {
+      "basename": "Abstract Data Types (ADT)",
+      "path": "Traning & Placement/Theory/Abstract Data Types (ADT).md"
+    },
+    {
+      "basename": "Data Structures",
+      "path": "Traning & Placement/Data Structures.md"
+    },
+    {
+      "basename": "Contents",
+      "path": "Traning & Placement/Contents.md"
+    },
+    {
+      "basename": "Deep-Learning",
+      "path": "Deep-Learning/Deep-Learning.md"
+    },
+    {
+      "basename": "Fundamentals",
+      "path": "Traning & Placement/Theory/Fundamentals.md"
+    },
+    {
+      "basename": "Interesting Stuff",
+      "path": "Random Stuff/Interesting Stuff.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "Random Stuff/Tech Stuff/Algorithms.md"
     }
   ],
   "omittedPaths": [],

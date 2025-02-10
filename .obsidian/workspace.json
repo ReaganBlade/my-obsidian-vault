@@ -4,45 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2a17829e79d2d381",
+        "id": "bdb45351a0aa83be",
         "type": "tabs",
         "children": [
           {
-            "id": "b54098f9befd3555",
+            "id": "47975181521e8525",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Traning & Placement/Theory/Time & Space Complexity.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Traning & Placement/Contents.md",
+                "bFile": "Traning & Placement/Contents.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Time & Space Complexity"
-            }
-          },
-          {
-            "id": "3ea569739392f054",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "117793b7da099681",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "diff",
+              "title": "Diff: Contents"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,16 +220,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "117793b7da099681",
+  "active": "47975181521e8525",
   "lastOpenFiles": [
-    "Web Development/Nextjs/Next Js Contents.md",
-    "Web Development/Nextjs/Connecting Database in Next Js.md",
+    "Traning & Placement/T&P Classes/Monday, Feb 10, 2025.md",
     "Traning & Placement/Theory/Asymptotic Notations.md",
-    "Untitled.md",
+    "Web Development/Nextjs/ZOD for Validation.md",
+    "Web Development/Nextjs/Setting-up a Next js Project.md",
+    "Web Development/Nextjs/NextJs.md",
+    "Web Development/Nextjs/Connecting Database in Next Js.md",
+    "Traning & Placement/T&P Classes",
     "Traning & Placement/Theory/Time & Space Complexity.md",
-    "Traning & Placement/Theory/Fundamentals.md",
-    "Traning & Placement/Contents.md",
     "Traning & Placement/Theory/Abstract Data Types (ADT).md",
+    "Traning & Placement/Data Structures.md",
+    "Traning & Placement/Contents.md",
+    "Deep-Learning/Deep-Learning.md",
+    "Deep-Learning",
+    "Traning & Placement/Theory/Fundamentals.md",
     "Random Stuff/Interesting Stuff.md",
     "Random Stuff/Tech Stuff/Algorithms.md",
     "Traning & Placement/Theory",
@@ -259,8 +245,6 @@
     "Random Stuff/Tech Stuff",
     "Untitled.canvas",
     "Random Stuff",
-    "Web Development/Nextjs/ZOD for Validation.md",
-    "Web Development/Nextjs/Setting-up a Next js Project.md",
     "Web Development/Untitled.md",
     "Web Development/Nextjs",
     "Web Development",
