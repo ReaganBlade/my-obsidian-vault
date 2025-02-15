@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "bdb45351a0aa83be",
+        "id": "b7daa9bcb418779d",
         "type": "tabs",
         "children": [
           {
-            "id": "47975181521e8525",
+            "id": "5558f4898671ae81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traning & Placement/T&P Classes/Monday, Feb 10, 2025.md",
+                "file": "Deep-Learning/Practicals/Deep Learning Practicals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monday, Feb 10, 2025"
+              "title": "Deep Learning Practicals"
+            }
+          },
+          {
+            "id": "d50c84054ee2df69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traning & Placement/T&P Classes/Array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Array"
+            }
+          },
+          {
+            "id": "46eca562082de178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array Practice questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Array Practice questions"
+            }
+          },
+          {
+            "id": "42b90de0bbb31faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traning & Placement/T&P Classes/Array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Array"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,15 +256,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47975181521e8525",
+  "active": "42b90de0bbb31faf",
   "lastOpenFiles": [
-    "Traning & Placement/T&P Classes/Monday, Feb 10, 2025.md",
+    "Array Practice questions.md",
+    "Untitled 1.md",
+    "Traning & Placement/T&P Classes/Array Assignment",
+    "Traning & Placement/T&P Classes/Array.md",
+    "Deep-Learning/Practicals/Deep Learning Practicals.md",
+    "Deep-Learning/Practicals/Single Layer Neural Network.md",
+    "Deep-Learning/Deep-Learning.md",
+    "Deep-Learning/Practicals",
+    "Traning & Placement/T&P Classes/Asymptotic Notation.md",
+    "Class Notes.md",
     "Traning & Placement/Theory/Asymptotic Notations.md",
     "Web Development/Nextjs/ZOD for Validation.md",
     "Web Development/Nextjs/Setting-up a Next js Project.md",
@@ -232,7 +284,6 @@
     "Traning & Placement/Theory/Abstract Data Types (ADT).md",
     "Traning & Placement/Data Structures.md",
     "Traning & Placement/Contents.md",
-    "Deep-Learning/Deep-Learning.md",
     "Deep-Learning",
     "Traning & Placement/Theory/Fundamentals.md",
     "Random Stuff/Interesting Stuff.md",
@@ -246,7 +297,6 @@
     "Random Stuff",
     "Web Development/Untitled.md",
     "Web Development/Nextjs",
-    "Web Development",
     "2025-02-08.md",
     "Ghost.md"
   ]

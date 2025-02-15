@@ -1,4 +1,4 @@
-# Asymptotic Notation 
+##### Date: Monday, Feb 10, 2025
 Mathematical representation of Time & Space Complexity of an algorithm.
 
 Asymptotic Notation was the 2nd term that was adopted, First was experimental theory
