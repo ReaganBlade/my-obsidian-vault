@@ -1,40 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Array",
-      "path": "Traning & Placement/T&P Classes/Array.md"
+      "basename": "Caterpillar Tech-a-Thon",
+      "path": "Caterpillar Tech-a-Thon.md"
     },
     {
-      "basename": "Array Practice questions",
-      "path": "Array Practice questions.md"
+      "basename": "Approach",
+      "path": "Caterpillar (CAT)/Approach.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
+      "basename": "Problem Statement Breakdown",
+      "path": "Caterpillar (CAT)/Problem Statement Breakdown.md"
     },
     {
-      "basename": "Deep Learning Practicals",
-      "path": "Deep-Learning/Practicals/Deep Learning Practicals.md"
+      "basename": "Class Notes",
+      "path": "Traning & Placement/Class Notes.md"
     },
     {
-      "basename": "Single Layer Neural Network",
-      "path": "Deep-Learning/Practicals/Single Layer Neural Network.md"
+      "basename": "Stack",
+      "path": "Traning & Placement/T&P Classes/Stack.md"
     },
     {
       "basename": "Deep-Learning",
       "path": "Deep-Learning/Deep-Learning.md"
     },
     {
-      "basename": "Asymptotic Notation",
-      "path": "Traning & Placement/T&P Classes/Asymptotic Notation.md"
+      "basename": "Single Layer Neural Network",
+      "path": "Deep-Learning/Practicals/Single Layer Neural Network.md"
     },
     {
-      "basename": "Class Notes",
-      "path": "Class Notes.md"
-    },
-    {
-      "basename": "Asymptotic Notations",
-      "path": "Traning & Placement/Theory/Asymptotic Notations.md"
+      "basename": "Deep Learning Practicals",
+      "path": "Deep-Learning/Practicals/Deep Learning Practicals.md"
     },
     {
       "basename": "ZOD for Validation",
@@ -45,12 +41,40 @@
       "path": "Web Development/Nextjs/Setting-up a Next js Project.md"
     },
     {
-      "basename": "NextJs",
-      "path": "Web Development/Nextjs/NextJs.md"
-    },
-    {
       "basename": "Connecting Database in Next Js",
       "path": "Web Development/Nextjs/Connecting Database in Next Js.md"
+    },
+    {
+      "basename": "Asymptotic Notations",
+      "path": "Traning & Placement/Theory/Asymptotic Notations.md"
+    },
+    {
+      "basename": "tower-of-hanoi-python",
+      "path": "Traning & Placement/T&P Classes/Assets/tower-of-hanoi-python.gif"
+    },
+    {
+      "basename": "Tower of Hanoi Problem",
+      "path": "Traning & Placement/T&P Classes/Tower of Hanoi Problem.md"
+    },
+    {
+      "basename": "Array Practice questions",
+      "path": "Traning & Placement/T&P Classes/Array Assignment/Array Practice questions.md"
+    },
+    {
+      "basename": "Array",
+      "path": "Traning & Placement/T&P Classes/Array.md"
+    },
+    {
+      "basename": "Stack in Python",
+      "path": "Traning & Placement/Theory/Stack in Python.md"
+    },
+    {
+      "basename": "Asymptotic Notation",
+      "path": "Traning & Placement/T&P Classes/Asymptotic Notation.md"
+    },
+    {
+      "basename": "NextJs",
+      "path": "Web Development/Nextjs/NextJs.md"
     },
     {
       "basename": "Time & Space Complexity",

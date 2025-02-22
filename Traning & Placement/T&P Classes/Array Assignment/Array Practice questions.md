@@ -123,18 +123,19 @@ Given an integer array of size n where 1 ≤ array elements ≤ n, some elements
 * Input: arr \= \[1,1,1,2,2,2\] → Output: \[1,2\]  
 * Input: arr \= \[1,2,3,4\] → Output: \[\]
 
-1. WAP **Check if Two Arrays Are Equal**
+### 6. WAP **Check if Two Arrays Are Equal**
 
-	**Input:**  
-		arr1 \= \[1, 2, 3\]  
-		arr2 \= \[3, 2, 1\]  
-	**Output:** True
+**Input:**  
+	arr1 \= \[1, 2, 3\]  
+	arr2 \= \[3, 2, 1\]  
+**Output:** True
+	
 
-#### 2. **WAP to Find the Leader Elements. (Leader Element:** An element is a leader if it is greater than all elements to its right.)
+### 7. **WAP to Find the Leader Elements. (Leader Element:** An element is a leader if it is greater than all elements to its right.)
 
 **Input:** \[16, 17, 4, 3, 5, 2\]		**Output:** \[17, 5, 2\]
 
-#### 3. **Rotate Array to the Left by k Positions.**
+### 8. **Rotate Array to the Left by k Positions.**
 
 **Input:**  
 	arr \= \[1, 2, 3, 4, 5\]  
@@ -142,14 +143,14 @@ k \= 2
 
 **Output:** \[3,4,5,1,2\]
 
-#### 4. **Find Majority Element in given array.** Find the element that appears more than n/2 times.
+### 9. **Find Majority Element in given array.** Find the element that appears more than n/2 times.
 
 **Input:** \[3, 3, 4, 2, 4, 4, 2, 4, 4\]			**Output:** 4
 
-#### 5. **Find Peak Element,** A peak element is greater than its neighbors. Find one such element.
+### 10. **Find Peak Element,** A peak element is greater than its neighbors. Find one such element.
 
 **Input:** \[1, 3, 20, 4, 1, 0\]				**Output:** 20
 
-#### 6. **Sort an Array consisting of 0s, 1s, and 2s.**
+### 11. **Sort an Array consisting of 0s, 1s, and 2s.**
 
 **Input:** \[2, 0, 2, 1, 1, 0\]				**Output:** \[0,0,1,1,2,2\]

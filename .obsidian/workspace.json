@@ -4,67 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b7daa9bcb418779d",
+        "id": "4a2229d9ca086e70",
         "type": "tabs",
         "children": [
           {
-            "id": "5558f4898671ae81",
+            "id": "17c2a1382cc8cdf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep-Learning/Practicals/Deep Learning Practicals.md",
+                "file": "Caterpillar (CAT)/Approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deep Learning Practicals"
+              "title": "Approach"
             }
           },
           {
-            "id": "d50c84054ee2df69",
+            "id": "5512259caff9b39f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traning & Placement/T&P Classes/Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Array"
-            }
-          },
-          {
-            "id": "46eca562082de178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Array Practice questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Array Practice questions"
-            }
-          },
-          {
-            "id": "42b90de0bbb31faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traning & Placement/T&P Classes/Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Array"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,22 +157,7 @@
             }
           },
           {
-            "id": "8f0ad9e82f22345b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Traning & Placement/Theory/Asymptotic Notations.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Asymptotic Notations"
-            }
-          },
-          {
-            "id": "ac1ce329578ca129",
+            "id": "2bbf928234bbf5fa",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -218,7 +171,22 @@
             }
           },
           {
-            "id": "2acea5320721c2fc",
+            "id": "ac1187f36e5f47a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Traning & Placement/T&P Classes/Array Assignment/Array Practice questions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Array Practice questions"
+            }
+          },
+          {
+            "id": "38fba620dcf7a800",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -228,7 +196,7 @@
             }
           },
           {
-            "id": "a0a5f08d56914dcd",
+            "id": "bc26a5b10e623717",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -262,23 +230,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42b90de0bbb31faf",
+  "active": "5512259caff9b39f",
   "lastOpenFiles": [
-    "Array Practice questions.md",
-    "Untitled 1.md",
-    "Traning & Placement/T&P Classes/Array Assignment",
-    "Traning & Placement/T&P Classes/Array.md",
-    "Deep-Learning/Practicals/Deep Learning Practicals.md",
-    "Deep-Learning/Practicals/Single Layer Neural Network.md",
+    "Caterpillar Tech-a-Thon.md",
+    "Caterpillar (CAT)/Approach.md",
+    "Caterpillar (CAT)/Problem Statement Breakdown.md",
+    "Traning & Placement/Class Notes.md",
+    "Traning & Placement/T&P Classes/Stack.md",
     "Deep-Learning/Deep-Learning.md",
-    "Deep-Learning/Practicals",
-    "Traning & Placement/T&P Classes/Asymptotic Notation.md",
-    "Class Notes.md",
-    "Traning & Placement/Theory/Asymptotic Notations.md",
+    "Caterpillar (CAT)",
+    "Deep-Learning/Practicals/Single Layer Neural Network.md",
+    "Deep-Learning/Practicals/Deep Learning Practicals.md",
     "Web Development/Nextjs/ZOD for Validation.md",
     "Web Development/Nextjs/Setting-up a Next js Project.md",
-    "Web Development/Nextjs/NextJs.md",
     "Web Development/Nextjs/Connecting Database in Next Js.md",
+    "Traning & Placement/Theory/Asymptotic Notations.md",
+    "Traning & Placement/T&P Classes/Assets/tower-of-hanoi-python.gif",
+    "Traning & Placement/T&P Classes/Tower of Hanoi Problem.md",
+    "Traning & Placement/T&P Classes/Array Assignment/Array Practice questions.md",
+    "Traning & Placement/T&P Classes/Array.md",
+    "Traning & Placement/Theory/Stack in Python.md",
+    "Traning & Placement/T&P Classes/Assets/Stack.md",
+    "Traning & Placement/T&P Classes/Assets",
+    "Traning & Placement/T&P Classes/Asymptotic Notation.md",
+    "Untitled 1.md",
+    "Traning & Placement/T&P Classes/Array Assignment",
+    "Deep-Learning/Practicals",
+    "Web Development/Nextjs/NextJs.md",
     "Traning & Placement/T&P Classes",
     "Traning & Placement/Theory/Time & Space Complexity.md",
     "Traning & Placement/Theory/Abstract Data Types (ADT).md",
@@ -287,17 +265,10 @@
     "Deep-Learning",
     "Traning & Placement/Theory/Fundamentals.md",
     "Random Stuff/Interesting Stuff.md",
-    "Random Stuff/Tech Stuff/Algorithms.md",
     "Traning & Placement/Theory",
     "Traning & Placement",
-    "Excalidraw/Drawing 2025-02-10 00.47.39.excalidraw.md",
     "Excalidraw",
     "Random Stuff/Tech Stuff",
-    "Untitled.canvas",
-    "Random Stuff",
-    "Web Development/Untitled.md",
-    "Web Development/Nextjs",
-    "2025-02-08.md",
-    "Ghost.md"
+    "Untitled.canvas"
   ]
 }
