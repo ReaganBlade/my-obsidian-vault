@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Queue",
+      "path": "Queue.md"
+    },
+    {
+      "basename": "Tower of Hanoi Problem",
+      "path": "Traning & Placement/T&P Classes/Tower of Hanoi Problem.md"
+    },
+    {
+      "basename": "tower-of-hanoi-python",
+      "path": "Traning & Placement/T&P Classes/Assets/tower-of-hanoi-python.gif"
+    },
+    {
+      "basename": "Array Practice questions",
+      "path": "Traning & Placement/T&P Classes/Array Assignment/Array Practice questions.md"
+    },
+    {
+      "basename": "Stack",
+      "path": "Traning & Placement/T&P Classes/Stack.md"
+    },
+    {
+      "basename": "Asymptotic Notation",
+      "path": "Traning & Placement/T&P Classes/Asymptotic Notation.md"
+    },
+    {
+      "basename": "Asymptotic Notations",
+      "path": "Traning & Placement/Theory/Asymptotic Notations.md"
+    },
+    {
       "basename": "Caterpillar Tech-a-Thon",
-      "path": "Caterpillar Tech-a-Thon.md"
+      "path": "Caterpillar (CAT)/Caterpillar Tech-a-Thon.md"
     },
     {
       "basename": "Approach",
@@ -15,10 +43,6 @@
     {
       "basename": "Class Notes",
       "path": "Traning & Placement/Class Notes.md"
-    },
-    {
-      "basename": "Stack",
-      "path": "Traning & Placement/T&P Classes/Stack.md"
     },
     {
       "basename": "Deep-Learning",
@@ -45,32 +69,12 @@
       "path": "Web Development/Nextjs/Connecting Database in Next Js.md"
     },
     {
-      "basename": "Asymptotic Notations",
-      "path": "Traning & Placement/Theory/Asymptotic Notations.md"
-    },
-    {
-      "basename": "tower-of-hanoi-python",
-      "path": "Traning & Placement/T&P Classes/Assets/tower-of-hanoi-python.gif"
-    },
-    {
-      "basename": "Tower of Hanoi Problem",
-      "path": "Traning & Placement/T&P Classes/Tower of Hanoi Problem.md"
-    },
-    {
-      "basename": "Array Practice questions",
-      "path": "Traning & Placement/T&P Classes/Array Assignment/Array Practice questions.md"
-    },
-    {
       "basename": "Array",
       "path": "Traning & Placement/T&P Classes/Array.md"
     },
     {
       "basename": "Stack in Python",
       "path": "Traning & Placement/Theory/Stack in Python.md"
-    },
-    {
-      "basename": "Asymptotic Notation",
-      "path": "Traning & Placement/T&P Classes/Asymptotic Notation.md"
     },
     {
       "basename": "NextJs",
