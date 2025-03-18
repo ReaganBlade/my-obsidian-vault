@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Binary Search Tree (BST)",
+      "path": "Tree/Binary Search Tree (BST).md"
+    },
+    {
+      "basename": "B-Tree",
+      "path": "Tree/B-Tree.md"
+    },
+    {
       "basename": "Balanced Tree",
       "path": "Tree/Balanced Tree.md"
+    },
+    {
+      "basename": "AVL Tree",
+      "path": "Tree/AVL Tree.md"
     },
     {
       "basename": "Trie (Prefix Tree)",
@@ -21,24 +33,12 @@
       "path": "Tree/Segment Tree.md"
     },
     {
-      "basename": "AVL Tree",
-      "path": "Tree/AVL Tree.md"
-    },
-    {
       "basename": "Heap",
       "path": "Tree/Heap.md"
     },
     {
-      "basename": "Binary Search Tree (BST)",
-      "path": "Tree/Binary Search Tree (BST).md"
-    },
-    {
       "basename": "Binary Tree",
       "path": "Tree/Binary Tree.md"
-    },
-    {
-      "basename": "B-Tree",
-      "path": "Tree/B-Tree.md"
     },
     {
       "basename": "PORT NUBMERs",

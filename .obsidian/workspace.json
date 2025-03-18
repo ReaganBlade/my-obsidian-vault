@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Balanced Tree.md",
+                "file": "Tree/Binary Search Tree (BST).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Balanced Tree"
+              "title": "Binary Search Tree (BST)"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/Balanced Tree.md",
+                "file": "Tree/Binary Search Tree (BST).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Balanced Tree"
+              "title": "Outgoing links from Binary Search Tree (BST)"
             }
           },
           {
@@ -220,19 +220,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc26a5b10e623717",
+  "active": "7079467b17c1120d",
   "lastOpenFiles": [
+    "Tree/B-Tree.md",
+    "Tree/Balanced Tree.md",
+    "Tree/AVL Tree.md",
     "Tree/Trie (Prefix Tree).md",
     "Tree/Tree.md",
     "Queue.md",
     "Tree/Segment Tree.md",
-    "Tree/Balanced Tree.md",
-    "Tree/AVL Tree.md",
     "Tree/Heap.md",
     "Tree/Binary Search Tree (BST).md",
     "Tree/Binary Tree.md",
     "Untitled",
-    "Tree/B-Tree.md",
     "PORT NUBMERs.md",
     "Recursion - A Complete Guide.md",
     "Pasted image 20250317155835.png",
