@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Balanced Tree",
+      "path": "Tree/Balanced Tree.md"
+    },
+    {
+      "basename": "Trie (Prefix Tree)",
+      "path": "Tree/Trie (Prefix Tree).md"
+    },
+    {
+      "basename": "Tree",
+      "path": "Tree/Tree.md"
+    },
+    {
       "basename": "Queue",
       "path": "Queue.md"
+    },
+    {
+      "basename": "Segment Tree",
+      "path": "Tree/Segment Tree.md"
+    },
+    {
+      "basename": "AVL Tree",
+      "path": "Tree/AVL Tree.md"
+    },
+    {
+      "basename": "Heap",
+      "path": "Tree/Heap.md"
+    },
+    {
+      "basename": "Binary Search Tree (BST)",
+      "path": "Tree/Binary Search Tree (BST).md"
+    },
+    {
+      "basename": "Binary Tree",
+      "path": "Tree/Binary Tree.md"
+    },
+    {
+      "basename": "B-Tree",
+      "path": "Tree/B-Tree.md"
+    },
+    {
+      "basename": "PORT NUBMERs",
+      "path": "PORT NUBMERs.md"
+    },
+    {
+      "basename": "Recursion - A Complete Guide",
+      "path": "Recursion - A Complete Guide.md"
+    },
+    {
+      "basename": "Linked List",
+      "path": "Traning & Placement/T&P Classes/Linked List.md"
+    },
+    {
+      "basename": "Interesting Stuff",
+      "path": "Random Stuff/Interesting Stuff.md"
+    },
+    {
+      "basename": "2226. Maximum Candies Allocated to K Children",
+      "path": "LeetCode/2226. Maximum Candies Allocated to K Children.md"
+    },
+    {
+      "basename": "Project Overview",
+      "path": "Project Presentation/Project Overview.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "Random Stuff/Tech Stuff/Algorithms.md"
+    },
+    {
+      "basename": "Contacts",
+      "path": "Contacts.md"
     },
     {
       "basename": "Tower of Hanoi Problem",
@@ -99,14 +167,6 @@
     {
       "basename": "Fundamentals",
       "path": "Traning & Placement/Theory/Fundamentals.md"
-    },
-    {
-      "basename": "Interesting Stuff",
-      "path": "Random Stuff/Interesting Stuff.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "Random Stuff/Tech Stuff/Algorithms.md"
     }
   ],
   "omittedPaths": [],
