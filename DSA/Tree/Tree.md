@@ -48,7 +48,7 @@ Trees are essential to represent **hierarchical data**, such as:
 5. [[Heap]] - A complete binary tree satisfying the heap property.
 6. [[Trie (Prefix Tree)]] - Used for searching words in a dictionary.
 7. [[Segment Tree]] - Used for range queries and updates.
-8. **Suffix Tree** - Used for pattern matching in strings.
+8. [[Suffix Tree]] - Used for pattern matching in strings.
 9. [[AVL Tree]] - A self-balancing binary search tree.
 10. **Red-Black Tree** - A self-balancing BST used in databases.
 11. [[B-Tree]]- Used in databases and file systems for indexing.

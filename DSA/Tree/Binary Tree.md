@@ -15,7 +15,7 @@ A **Binary Tree** is a hierarchical data structure where each node has at most *
 
 1. **Full Binary Tree** - Every node has **0 or 2 children**.
 2. **Complete Binary Tree** - All levels are completely filled except possibly the last.
-3. **Perfect Binary Tree** - All levels are completely filled.
+3. **Perfect Binary Tree** - All leafs are same level, all internal nodes are filled.
 4. **Balanced Binary Tree** - The height difference between left and right subtrees is at most **1**.
 5. **Degenerate (Skewed) Binary Tree** - Each node has only one child.
 

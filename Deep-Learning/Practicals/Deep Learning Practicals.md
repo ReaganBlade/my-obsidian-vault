@@ -1,1 +1,1 @@
-1. [[Single Layer Neural Network]]
+. [[Single Layer Neural Network]]

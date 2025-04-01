@@ -17,6 +17,9 @@ To maintain balance, AVL trees use four types of rotations:
 3. **Left-Right Rotation (LR Rotation)** - Performed when nodes are inserted into the right subtree of the left child.
 4. **Right-Left Rotation (RL Rotation)** - Performed when nodes are inserted into the left subtree of the right child.
 
+### Notation
+In LL -> first L represent subtree and second L represent rotation
+
 ## AVL Tree Implementation in Python
 
 ```python

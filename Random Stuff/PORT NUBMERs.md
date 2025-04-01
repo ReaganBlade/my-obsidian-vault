@@ -40,3 +40,26 @@
 |**5985, 5986**|WinRM|Windows Remote Management|
 |**8888**|Jupyter Notebook|Python development|
 |**9090**|Prometheus|Monitoring System|
+
+### **HDFS (Hadoop Distributed File System)**
+
+- **NameNode**: `50070` (Web UI), `8020` (IPC)
+- **Secondary NameNode**: `50090` (Web UI)
+- **DataNode**: `50075` (Web UI), `9866` (Data Transfer)
+
+### **YARN (Yet Another Resource Negotiator)**
+
+- **ResourceManager**: `8088` (Web UI), `8032` (IPC)
+- **NodeManager**: `8042` (Web UI)
+- **JobHistory Server**: `19888` (Web UI)
+
+### **MapReduce**
+
+- **JobTracker (deprecated in YARN)**: `50030`
+- **TaskTracker (deprecated in YARN)**: `50060`
+
+### **Other Services**
+
+- **ZooKeeper**: `2181` (Client connection)
+
+Let me know if you need more details! 🚀
