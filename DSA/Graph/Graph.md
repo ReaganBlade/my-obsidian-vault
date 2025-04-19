@@ -83,14 +83,14 @@ Graphs are widely used in various real-world applications, including:
 
 ### 1. Shortest Path Algorithms
 
-- **Dijkstra's Algorithm:** Finds the shortest path from a source node to all other nodes in a weighted graph (non-negative weights). Time Complexity: O((V+E) log V).
-- **Bellman-Ford Algorithm:** Works for graphs with negative weights but slower than Dijkstra. Time Complexity: O(VE).
-- **Floyd-Warshall Algorithm:** Computes shortest paths between all pairs of nodes. Time Complexity: O(V^3).
+- **[[Dijkstra's Algorithm]]:** Finds the shortest path from a source node to all other nodes in a weighted graph (non-negative weights). Time Complexity: O((V+E) log V).
+- **[[Bellman-Ford Algorithm]]:** Works for graphs with negative weights but slower than Dijkstra. Time Complexity: O(VE).
+- **[[Floyd-Warshall Algorithm]]:** Computes shortest paths between all pairs of nodes. Time Complexity: O(V^3).
 
 ### 2. Minimum Spanning Tree (MST) Algorithms
 
-- **Kruskal's Algorithm:** Uses a greedy approach to find the MST by sorting edges. Time Complexity: O(E log E).
-- **Prim's Algorithm:** Builds the MST by adding edges step by step. Time Complexity: O((V+E) log V).
+- **[[Kruskal's Algorithm]]:** Uses a greedy approach to find the MST by sorting edges. Time Complexity: O(E log E).
+- **[[Prim's Algorithm]]:** Builds the MST by adding edges step by step. Time Complexity: O((V+E) log V).
 
 ### 3. Other Important Graph Algorithms
 

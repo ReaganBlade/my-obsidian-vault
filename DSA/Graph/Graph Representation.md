@@ -2,7 +2,7 @@
 
 Graphs can be represented in multiple ways depending on the requirements of the problem, memory constraints, and the type of graph (dense or sparse). The two most common representations are the **Adjacency Matrix** and the **Adjacency List**.
 
-## 1. [[Adjacency Matrix]]
+## 1. [[Adjacency Matrix]] aka (Boolean Matrix Rep)
 
 An **Adjacency Matrix** is a 2D array (or matrix) of size `V x V`, where `V` is the number of vertices in the graph. It is useful for dense graphs where the number of edges is close to the maximum possible.
 
@@ -80,3 +80,8 @@ Both adjacency lists and adjacency matrices have their advantages and disadvanta
 - **Use an adjacency list** for sparse graphs, where memory efficiency is a priority and edge iteration is common.
 
 These representations form the foundation for graph algorithms like BFS, DFS, Dijkstra’s algorithm, and more.
+
+
+### NOTE:
+- Incidence Matrix?
+- 

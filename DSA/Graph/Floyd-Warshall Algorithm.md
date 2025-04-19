@@ -37,23 +37,22 @@ Floyd-Warshall builds a **distance matrix** that evolves from direct edge weight
 ### Step-by-Step Process
 1. **Initialize:**
    - Create a distance matrix:
-     - \(dist[i][j] = weight(i, j)\) if an edge exists.
-     - \(dist[i][j] = \infty\) if no edge (unless \(i = j\), then 0).
+     - \(`dist[i][j]` = weight(i, j)\) if an edge exists.
+     - \(`dist[i][j]` = infinity) if no edge (unless (i = j), then 0).
    - Optionally, initialize a predecessor matrix with direct connections.
 
 2. **Iterate Over Intermediate Vertices:**
    - For each vertex \(k\) (from 0 to \(V-1\)):
      - For each pair \((i, j)\):
-       - If \(dist[i][k] + dist[k][j] < dist[i][j]\), update \(dist[i][j]\) and set \(pred[i][j] = pred[k][j]\).
+       - If  (`dist[i][k]` + `dist[k][j]` < `dist[i][j]`), update (`dist[i][j]`) and set (`pred[i][j]` = `pred[k][j]`).
 
 3. **Negative Cycle Check:**
-   - After completion, check the diagonal (\(dist[i][i]\)).
-   - If any \(dist[i][i] < 0\), a negative cycle exists.
+   - After completion, check the diagonal (`dist[i][i]`).
+   - If any \(`dist[i][i]` < 0\), a negative cycle exists.
 
 4. **Result:**
    - The final distance matrix contains shortest path lengths between all pairs.
    - The predecessor matrix (if used) allows path reconstruction.
-
 ### Example
 Graph with 4 nodes: 0, 1, 2, 3.
 - Edges: 0→1 (4), 0→2 (8), 1→2 (2), 1→3 (5), 2→1 (-3).

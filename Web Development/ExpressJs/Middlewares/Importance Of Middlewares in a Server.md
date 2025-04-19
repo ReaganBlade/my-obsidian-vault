@@ -42,7 +42,6 @@ Middleware is **essential** in a server because it acts as the **bridge** betwee
 6. **Static File Serving**
     - Serves files like images, CSS, and JavaScript.
     - Example:
-        
         ```javascript
         app.use(express.static('public'));
         ```
@@ -50,7 +49,6 @@ Middleware is **essential** in a server because it acts as the **bridge** betwee
 7. **Performance Optimization**
     - Middleware like **compression** reduces response size, improving speed.
     - Example:
-        
         ```javascript
         const compression = require('compression');
         app.use(compression()); // Enables gzip compression

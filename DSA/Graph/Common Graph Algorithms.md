@@ -10,35 +10,35 @@ These algorithms find the shortest path between nodes in a weighted graph.
 
 - **[[Dijkstra's Algorithm]]:** Finds the shortest path from a single source (greedy approach, O(V log V)).
 - **[[Bellman-Ford Algorithm]]:** Works with negative weights but is slower (O(VE)).
-- **Floyd-Warshall Algorithm:** Computes shortest paths between all pairs (O(V^3)).
+- **[[Floyd-Warshall Algorithm]]:** Computes shortest paths between all pairs (O(V^3)).
 
 ### 2. **Minimum Spanning Tree (MST) Algorithms**
 
 Finds a subset of edges forming a tree that connects all vertices with minimal cost.
 
-- **Kruskal’s Algorithm:** Uses a greedy approach and union-find (O(E log V)).
-- **Prim’s Algorithm:** Uses a priority queue for efficiency (O(V log V)).
+- **[[Kruskal’s Algorithm]]:** Uses a greedy approach and union-find (O(E log V)).
+- **[[Prim’s Algorithm]]:** Uses a priority queue for efficiency (O(V log V)).
 
 ### 3. **Topological Sorting**
 
 Used for scheduling tasks represented as Directed Acyclic Graphs (DAGs).
 
-- **Kahn’s Algorithm (BFS-based).**
-- **DFS-based topological sorting.**
+- **[[Kahn’s Algorithm]] (BFS-based).**
+- **[[DFS-Based Topological Sorting]]**
 
 ### 4. **Cycle Detection Algorithms**
 
 Used to check whether a cycle exists in a graph.
 
-- **DFS-based approach** (for directed graphs).
-- **Union-Find algorithm** (for undirected graphs).
+- **[[DFS-Based Cycle Detection Algorithm]]** (for directed graphs).
+- **[[Cycle Detection Using Union-Find Algorithm]]** (for undirected graphs).
 
 ### 5. **Network Flow Algorithms**
 
 Used to find the maximum possible flow in a network.
 
-- **Ford-Fulkerson Algorithm:** Uses augmenting paths (O(E * max_flow)).
-- **Edmonds-Karp Algorithm:** BFS-based implementation of Ford-Fulkerson (O(VE^2)).
+- **[[Ford-Fulkerson Algorithm]]:** Uses augmenting paths (O(E * max_flow)).
+- **[[Edmonds-Karp Algorithm]]:** BFS-based implementation of Ford-Fulkerson (O(VE^2)).
 
 ### 6. **Graph Coloring Algorithms**
 

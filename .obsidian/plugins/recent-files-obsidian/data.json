@@ -1,8 +1,152 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "Are middlewares absolutely Mandatory?",
+      "path": "Web Development/ExpressJs/Middlewares/Are middlewares absolutely Mandatory?.md"
+    },
+    {
+      "basename": "Importance Of Middlewares in a Server",
+      "path": "Web Development/ExpressJs/Middlewares/Importance Of Middlewares in a Server.md"
+    },
+    {
+      "basename": "Middleware",
+      "path": "Web Development/ExpressJs/Middlewares/Middleware.md"
+    },
+    {
+      "basename": "Depth-First Search (DFS)",
+      "path": "DSA/Graph/Depth-First Search (DFS).md"
+    },
+    {
+      "basename": "DFS-Based Topological Sorting",
+      "path": "DSA/Graph/DFS-Based Topological Sorting.md"
+    },
+    {
+      "basename": "Breadth-First Search (BFS) Algorithm",
+      "path": "DSA/Graph/Breadth-First Search (BFS) Algorithm.md"
+    },
+    {
+      "basename": "Express.js Documentation (Detailed Guide)",
+      "path": "Web Development/ExpressJs/Express.js Documentation (Detailed Guide).md"
+    },
+    {
+      "basename": "ExpressJs Important Concepts",
+      "path": "Web Development/ExpressJs/ExpressJs Important Concepts.md"
+    },
+    {
+      "basename": "NodeJs",
+      "path": "NodeJs.md"
+    },
+    {
+      "basename": "dotnvmrc file",
+      "path": "Web Development/NodeJs/dotnvmrc file.md"
+    },
+    {
       "basename": "Commonly asked DBMS interview questions",
       "path": "Interview Related Stuff/Commonly asked DBMS interview questions.md"
+    },
+    {
+      "basename": "Database Design Document",
+      "path": "Project/College_Attendance/Database Design Document.md"
+    },
+    {
+      "basename": "Face Recognition Attendance System",
+      "path": "Project/College_Attendance/Face Recognition Attendance System.md"
+    },
+    {
+      "basename": "Fast Node Manager (FNM)",
+      "path": "Web Development/NodeJs/Fast Node Manager (FNM).md"
+    },
+    {
+      "basename": "Multer",
+      "path": "Web Development/NPM/Multer.md"
+    },
+    {
+      "basename": "User Flow Design",
+      "path": "Project/College_Attendance/User Flow Design.md"
+    },
+    {
+      "basename": "What is ORM?",
+      "path": "Web Development/What is ORM?.md"
+    },
+    {
+      "basename": "Floyd-Warshall Algorithm",
+      "path": "DSA/Graph/Floyd-Warshall Algorithm.md"
+    },
+    {
+      "basename": "Graph Terminologies",
+      "path": "Graph Terminologies.md"
+    },
+    {
+      "basename": "Graph",
+      "path": "Traning & Placement/Graph.md"
+    },
+    {
+      "basename": "Dijkstra's Algorithm",
+      "path": "DSA/Graph/Dijkstra's Algorithm.md"
+    },
+    {
+      "basename": "Bellman-Ford Algorithm",
+      "path": "DSA/Graph/Bellman-Ford Algorithm.md"
+    },
+    {
+      "basename": "Graph",
+      "path": "DSA/Graph/Graph.md"
+    },
+    {
+      "basename": "Edmonds-Karp Algorithm",
+      "path": "DSA/Graph/Edmonds-Karp Algorithm.md"
+    },
+    {
+      "basename": "Ways to represent a Graph",
+      "path": "DSA/Graph/Ways to represent a Graph.md"
+    },
+    {
+      "basename": "Graph Representation",
+      "path": "DSA/Graph/Graph Representation.md"
+    },
+    {
+      "basename": "Graph Traversal Algorithms",
+      "path": "DSA/Graph/Graph Traversal Algorithms.md"
+    },
+    {
+      "basename": "Prim’s Algorithm",
+      "path": "DSA/Graph/Prim’s Algorithm.md"
+    },
+    {
+      "basename": "Kruskal’s Algorithm",
+      "path": "DSA/Graph/Kruskal’s Algorithm.md"
+    },
+    {
+      "basename": "Common Graph Algorithms",
+      "path": "DSA/Graph/Common Graph Algorithms.md"
+    },
+    {
+      "basename": "Ford-Fulkerson Algorithm",
+      "path": "DSA/Graph/Ford-Fulkerson Algorithm.md"
+    },
+    {
+      "basename": "Apache Hadoop",
+      "path": "Apache Hadoop.md"
+    },
+    {
+      "basename": "DFS-Based Cycle Detection Algorithm",
+      "path": "DFS-Based Cycle Detection Algorithm.md"
+    },
+    {
+      "basename": "Python MRO property",
+      "path": "Python/Python MRO property.md"
+    },
+    {
+      "basename": "Cycle Detection Using Union-Find Algorithm",
+      "path": "DSA/Graph/Cycle Detection Using Union-Find Algorithm.md"
+    },
+    {
+      "basename": "Kahn’s Algorithm",
+      "path": "DSA/Graph/Kahn’s Algorithm.md"
     },
     {
       "basename": "Obsidian Vault Index",
@@ -23,30 +167,6 @@
     {
       "basename": "Session vs Cookies",
       "path": "Web Development/Auth/Session vs Cookies.md"
-    },
-    {
-      "basename": "Floyd-Warshall Algorithm",
-      "path": "DSA/Graph/Floyd-Warshall Algorithm.md"
-    },
-    {
-      "basename": "Common Graph Algorithms",
-      "path": "DSA/Graph/Common Graph Algorithms.md"
-    },
-    {
-      "basename": "Bellman-Ford Algorithm",
-      "path": "DSA/Graph/Bellman-Ford Algorithm.md"
-    },
-    {
-      "basename": "Dijkstra's Algorithm",
-      "path": "DSA/Graph/Dijkstra's Algorithm.md"
-    },
-    {
-      "basename": "Graph",
-      "path": "DSA/Graph/Graph.md"
-    },
-    {
-      "basename": "Graph Traversal Algorithms",
-      "path": "DSA/Graph/Graph Traversal Algorithms.md"
     },
     {
       "basename": "YT_EDU Planning",
@@ -79,126 +199,6 @@
     {
       "basename": "Redux - A React State Management Library",
       "path": "Web Development/React/Redux - A React State Management Library.md"
-    },
-    {
-      "basename": "Project Overview",
-      "path": "Project/YT_Edu/Project Overview.md"
-    },
-    {
-      "basename": "Server Actions",
-      "path": "Project/YT_Edu/Server Actions.md"
-    },
-    {
-      "basename": "Collections",
-      "path": "Project/YT_Edu/Collections.md"
-    },
-    {
-      "basename": "OAuth Standards",
-      "path": "Web Development/Auth/OAuth Standards.md"
-    },
-    {
-      "basename": "Auth Roadmap",
-      "path": "Web Development/Auth/Auth Roadmap.md"
-    },
-    {
-      "basename": "Auth Basics",
-      "path": "Web Development/Auth/Auth Basics.md"
-    },
-    {
-      "basename": "PORT NUBMERs",
-      "path": "Random Stuff/PORT NUBMERs.md"
-    },
-    {
-      "basename": "Apache Hadoop",
-      "path": "Apache Hadoop.md"
-    },
-    {
-      "basename": "SHA-256",
-      "path": "Web Development/Auth/Hashing & Encryption/SHA-256.md"
-    },
-    {
-      "basename": "PBKDF2",
-      "path": "Web Development/Auth/Hashing & Encryption/PBKDF2.md"
-    },
-    {
-      "basename": "BCrypt",
-      "path": "Web Development/Auth/Hashing & Encryption/BCrypt.md"
-    },
-    {
-      "basename": "Argon2",
-      "path": "Web Development/Auth/Hashing & Encryption/Argon2.md"
-    },
-    {
-      "basename": "What is ORM?",
-      "path": "Web Development/What is ORM?.md"
-    },
-    {
-      "basename": "Graph",
-      "path": "Traning & Placement/Graph.md"
-    },
-    {
-      "basename": "Binary Tree",
-      "path": "DSA/Tree/Binary Tree.md"
-    },
-    {
-      "basename": "Abstraction",
-      "path": "Object Oriented Programming/Abstraction.md"
-    },
-    {
-      "basename": "Password-Based Authentication",
-      "path": "Web Development/Auth/Types of Authentication/Password-Based Authentication.md"
-    },
-    {
-      "basename": "Contacts",
-      "path": "Other Stuff/Contacts.md"
-    },
-    {
-      "basename": "JWT-Based Authentication",
-      "path": "Web Development/Auth/Types of Authentication/JWT-Based Authentication.md"
-    },
-    {
-      "basename": "Basic Nextjs project structure",
-      "path": "Web Development/Nextjs/Basic Nextjs project structure.md"
-    },
-    {
-      "basename": "Multi-Factor Authentication",
-      "path": "Web Development/Auth/Types of Authentication/Multi-Factor Authentication.md"
-    },
-    {
-      "basename": "Session-Based Authentication",
-      "path": "Web Development/Auth/Types of Authentication/Session-Based Authentication.md"
-    },
-    {
-      "basename": "ExpressJs Important Concepts",
-      "path": "Web Development/ExpressJs/ExpressJs Important Concepts.md"
-    },
-    {
-      "basename": "Importance Of Middlewares in a Server",
-      "path": "Web Development/ExpressJs/Middlewares/Importance Of Middlewares in a Server.md"
-    },
-    {
-      "basename": "Token-Based Authentication",
-      "path": "Web Development/Auth/Types of Authentication/Token-Based Authentication.md"
-    },
-    {
-      "basename": "Web Development",
-      "path": "Web Development/Web Development.md"
-    },
-    {
-      "basename": "Are middlewares absolutely Mandatory?",
-      "path": "Web Development/ExpressJs/Middlewares/Are middlewares absolutely Mandatory?.md"
-    },
-    {
-      "basename": "Two-Factor Authentication",
-      "path": "Web Development/Auth/Types of Authentication/Two-Factor Authentication.md"
-    },
-    {
-      "basename": "Breadth-First Search (BFS) Algorithm",
-      "path": "DSA/Graph/Breadth-First Search (BFS) Algorithm.md"
-    },
-    {
-      "basename": "Don't Ever Run this",
-      "path": "Random Stuff/Don't Ever Run this.md"
     }
   ],
   "omittedPaths": [],
