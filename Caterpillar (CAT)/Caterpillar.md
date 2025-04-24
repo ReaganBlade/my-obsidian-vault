@@ -1,3 +1,0 @@
-- [[Caterpillar (CAT)/Approach]]
-- [[Caterpillar (CAT)/Caterpillar Tech-a-Thon]]
-- [[Caterpillar (CAT)/Problem Statement Breakdown]]

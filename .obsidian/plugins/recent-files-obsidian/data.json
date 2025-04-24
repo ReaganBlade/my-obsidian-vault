@@ -1,52 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
+      "basename": "Why make a copy when backtracking?",
+      "path": "Why make a copy when backtracking?.md"
     },
     {
-      "basename": "Are middlewares absolutely Mandatory?",
-      "path": "Web Development/ExpressJs/Middlewares/Are middlewares absolutely Mandatory?.md"
+      "basename": "Computer Networks",
+      "path": "Computer Networks.md"
+    },
+    {
+      "basename": "Commonly asked DBMS interview questions",
+      "path": "Interview Related Stuff/Commonly asked DBMS interview questions.md"
+    },
+    {
+      "basename": "Sorting Algorithms",
+      "path": "Sorting Algorithms.md"
+    },
+    {
+      "basename": "Caret Browsing",
+      "path": "Random Stuff/Tech Stuff/Caret Browsing.md"
+    },
+    {
+      "basename": "Apache Hadoop",
+      "path": "Random Stuff/Apache Hadoop.md"
+    },
+    {
+      "basename": "DFS-Based Cycle Detection Algorithm",
+      "path": "DSA/Graph/DFS-Based Cycle Detection Algorithm.md"
+    },
+    {
+      "basename": "Obsidian Vault Index",
+      "path": "Obsidian Vault Index.md"
+    },
+    {
+      "basename": "React Hook Form (RHF) - Complete Documentation",
+      "path": "Web Development/React/React Hook Form (RHF) - Complete Documentation.md"
     },
     {
       "basename": "Importance Of Middlewares in a Server",
       "path": "Web Development/ExpressJs/Middlewares/Importance Of Middlewares in a Server.md"
     },
     {
-      "basename": "Middleware",
-      "path": "Web Development/ExpressJs/Middlewares/Middleware.md"
+      "basename": "Queue",
+      "path": "Traning & Placement/Queue.md"
+    },
+    {
+      "basename": "Pasted image 20250317155835",
+      "path": "Pasted image 20250317155835.png"
+    },
+    {
+      "basename": "router.push() vs redirect()",
+      "path": "Web Development/Nextjs/router.push() vs redirect().md"
     },
     {
       "basename": "Depth-First Search (DFS)",
       "path": "DSA/Graph/Depth-First Search (DFS).md"
     },
     {
-      "basename": "DFS-Based Topological Sorting",
-      "path": "DSA/Graph/DFS-Based Topological Sorting.md"
-    },
-    {
       "basename": "Breadth-First Search (BFS) Algorithm",
       "path": "DSA/Graph/Breadth-First Search (BFS) Algorithm.md"
+    },
+    {
+      "basename": "Graph Traversal Algorithms",
+      "path": "DSA/Graph/Graph Traversal Algorithms.md"
     },
     {
       "basename": "Express.js Documentation (Detailed Guide)",
       "path": "Web Development/ExpressJs/Express.js Documentation (Detailed Guide).md"
     },
     {
+      "basename": "Graph",
+      "path": "DSA/Graph/Graph.md"
+    },
+    {
+      "basename": "DFS-Based Topological Sorting",
+      "path": "DSA/Graph/DFS-Based Topological Sorting.md"
+    },
+    {
+      "basename": "ZOD for Validation",
+      "path": "Web Development/Nextjs/ZOD for Validation.md"
+    },
+    {
+      "basename": "Graph",
+      "path": "Traning & Placement/Graph.md"
+    },
+    {
+      "basename": "NextJs",
+      "path": "Web Development/Nextjs/NextJs.md"
+    },
+    {
+      "basename": "Next.js File-Based Routing System",
+      "path": "Web Development/Nextjs/Next.js File-Based Routing System.md"
+    },
+    {
+      "basename": "Setting-up a Next js Project",
+      "path": "Web Development/Nextjs/Setting-up a Next js Project.md"
+    },
+    {
+      "basename": "Basic Nextjs project structure",
+      "path": "Web Development/Nextjs/Basic Nextjs project structure.md"
+    },
+    {
+      "basename": "Connecting Database in Next Js",
+      "path": "Web Development/Nextjs/Connecting Database in Next Js.md"
+    },
+    {
+      "basename": "Are middlewares absolutely Mandatory?",
+      "path": "Web Development/ExpressJs/Middlewares/Are middlewares absolutely Mandatory?.md"
+    },
+    {
+      "basename": "Middleware",
+      "path": "Web Development/ExpressJs/Middlewares/Middleware.md"
+    },
+    {
       "basename": "ExpressJs Important Concepts",
       "path": "Web Development/ExpressJs/ExpressJs Important Concepts.md"
     },
     {
-      "basename": "NodeJs",
-      "path": "NodeJs.md"
-    },
-    {
       "basename": "dotnvmrc file",
       "path": "Web Development/NodeJs/dotnvmrc file.md"
-    },
-    {
-      "basename": "Commonly asked DBMS interview questions",
-      "path": "Interview Related Stuff/Commonly asked DBMS interview questions.md"
     },
     {
       "basename": "Database Design Document",
@@ -77,24 +149,12 @@
       "path": "DSA/Graph/Floyd-Warshall Algorithm.md"
     },
     {
-      "basename": "Graph Terminologies",
-      "path": "Graph Terminologies.md"
-    },
-    {
-      "basename": "Graph",
-      "path": "Traning & Placement/Graph.md"
-    },
-    {
       "basename": "Dijkstra's Algorithm",
       "path": "DSA/Graph/Dijkstra's Algorithm.md"
     },
     {
       "basename": "Bellman-Ford Algorithm",
       "path": "DSA/Graph/Bellman-Ford Algorithm.md"
-    },
-    {
-      "basename": "Graph",
-      "path": "DSA/Graph/Graph.md"
     },
     {
       "basename": "Edmonds-Karp Algorithm",
@@ -107,10 +167,6 @@
     {
       "basename": "Graph Representation",
       "path": "DSA/Graph/Graph Representation.md"
-    },
-    {
-      "basename": "Graph Traversal Algorithms",
-      "path": "DSA/Graph/Graph Traversal Algorithms.md"
     },
     {
       "basename": "Prim’s Algorithm",
@@ -127,78 +183,6 @@
     {
       "basename": "Ford-Fulkerson Algorithm",
       "path": "DSA/Graph/Ford-Fulkerson Algorithm.md"
-    },
-    {
-      "basename": "Apache Hadoop",
-      "path": "Apache Hadoop.md"
-    },
-    {
-      "basename": "DFS-Based Cycle Detection Algorithm",
-      "path": "DFS-Based Cycle Detection Algorithm.md"
-    },
-    {
-      "basename": "Python MRO property",
-      "path": "Python/Python MRO property.md"
-    },
-    {
-      "basename": "Cycle Detection Using Union-Find Algorithm",
-      "path": "DSA/Graph/Cycle Detection Using Union-Find Algorithm.md"
-    },
-    {
-      "basename": "Kahn’s Algorithm",
-      "path": "DSA/Graph/Kahn’s Algorithm.md"
-    },
-    {
-      "basename": "Obsidian Vault Index",
-      "path": "Obsidian Vault Index.md"
-    },
-    {
-      "basename": "Pasted image 20250317155835",
-      "path": "Pasted image 20250317155835.png"
-    },
-    {
-      "basename": "Queue",
-      "path": "Queue.md"
-    },
-    {
-      "basename": "System Design",
-      "path": "System Design.md"
-    },
-    {
-      "basename": "Session vs Cookies",
-      "path": "Web Development/Auth/Session vs Cookies.md"
-    },
-    {
-      "basename": "YT_EDU Planning",
-      "path": "Project/YT_Edu/YT_EDU Planning.md"
-    },
-    {
-      "basename": "Zustand - A Lightweight State Management Library",
-      "path": "Web Development/React/Zustand - A Lightweight State Management Library.md"
-    },
-    {
-      "basename": "Abstract Data Types (ADT)",
-      "path": "Traning & Placement/Theory/Abstract Data Types (ADT).md"
-    },
-    {
-      "basename": "router.push() vs redirect()",
-      "path": "Web Development/Nextjs/router.push() vs redirect().md"
-    },
-    {
-      "basename": "Fundamentals",
-      "path": "Traning & Placement/Theory/Fundamentals.md"
-    },
-    {
-      "basename": "Asymptotic Notations",
-      "path": "Traning & Placement/Theory/Asymptotic Notations.md"
-    },
-    {
-      "basename": "Need of Redux and Zustand",
-      "path": "Web Development/React/Need of Redux and Zustand.md"
-    },
-    {
-      "basename": "Redux - A React State Management Library",
-      "path": "Web Development/React/Redux - A React State Management Library.md"
     }
   ],
   "omittedPaths": [],

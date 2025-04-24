@@ -2,7 +2,7 @@ Graph traversal algorithms are used to explore and visit all the nodes of a grap
 
 ## Types of Graph Traversal Algorithms
 
-### 1. **[[Breadth-First Search (BFS)]]**
+### 1. **[[Breadth-First Search (BFS) Algorithm]]**
 
 BFS is an algorithm for traversing or searching graph data structures. It explores all the neighbors of a node before moving to the next level.
 

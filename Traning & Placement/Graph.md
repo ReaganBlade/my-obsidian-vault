@@ -1,4 +1,4 @@
-1. Trivial Graph
+jjjjjhn h  1. Trivial Graph
 	1. A graph (G = (v, e)) is said to be trivial if there only exists one single vertex in the graph without any edge.
 	2. aka Singleton graph or single vertex graph.
 	3. Simplest type of graph often used as starting point for building more complex graphs.
@@ -94,7 +94,7 @@ Properties:
 - MST can stand for ==Mountain Standard Time, Minimum Spanning Tree, Multi-Skill Technician, or Minimum Standard of Treatment==.
 
 
-
+ 
 April 7th, 2025
 ### Finding Shortest Path Methods
 1. Single Source Shortest Path
@@ -164,3 +164,11 @@ Graph Rep: Adjacency Matrix
 
 
 Number of Matrix -> v + 1
+
+
+Date: April 22, 2025 -> Monday
+## Graph Traversal
+
+Two Types of traversal:
+1. [[Breadth First Search]] (BFS) Traversal -> Queue
+2. Depth First Search (DFS) Traversal -> Stack
