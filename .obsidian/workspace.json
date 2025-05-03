@@ -4,109 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b7496bac1ae07ed5",
+        "id": "7cab488637bf6bd1",
         "type": "tabs",
         "children": [
           {
-            "id": "68db38e1f6db1eb0",
+            "id": "36f320b096f0e31d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Related Stuff/Commonly asked DBMS interview questions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Commonly asked DBMS interview questions"
-            }
-          },
-          {
-            "id": "a646c5876d0fa789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Networks"
-            }
-          },
-          {
-            "id": "b862966dc7f176b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Networks"
-            }
-          },
-          {
-            "id": "289413c4f5f84ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML Interview Preparation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML Interview Preparation"
-            }
-          },
-          {
-            "id": "4dda3a78be462921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Stuff/Type Confusion Vulnerability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Type Confusion Vulnerability"
-            }
-          },
-          {
-            "id": "f7ded9d052c14897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Stuff/UAF Vulnerability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UAF Vulnerability"
-            }
-          },
-          {
-            "id": "87c3cfcc0be19d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UAF and Type Confusion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UAF and Type Confusion"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,46 +216,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87c3cfcc0be19d32",
+  "active": "36f320b096f0e31d",
   "lastOpenFiles": [
-    "Random Stuff/UAF Vulnerability.md",
-    "UAF and Type Confusion.md",
+    "Sorting Algorithms/Sorting Algorithms - A General Overview.md",
+    "Sorting Algorithms.md",
+    "Sorting Algorithms/Selection Sort - A Detailed Overview.md",
+    "Sorting Algorithms/Merge Sort - A Detailed Overview.md",
+    "Sorting Algorithms/Bucket Sort - A Detailed Overview.md",
+    "Sorting Algorithms/Radix Sort - A Detailed Overview.md",
+    "Sorting Algorithms/Counting Sort - A Detailed Overview.md",
+    "Sorting Algorithms/Shell Sort - A Detailed Overview.md",
+    "Sorting Algorithms/Tree Sort - A Detailed Overview.md",
+    "Sorting Algorithms/Heap Sort - A Detailed Overview.md",
+    "Sorting Algorithms/Quick Sort - A Detailed Overview.md",
+    "Sorting Algorithms/Bubble Sort A Detailed Overview.md",
+    "Sorting Algorithms/Insertion Sort - A Detailed Overview.md",
+    "Computer Networks.md",
     "Random Stuff/Type Confusion Vulnerability.md",
-    "HTML Interview Preparation.md",
+    "Random Stuff/UAF Vulnerability.md",
+    "DSA/Searching Algorithms/Linear Search (Sequential Search).md",
+    "DSA/Searching Algorithms/Binary Search (Interval Search).md",
+    "Sorting",
+    "DSA/Searching Algorithms",
+    "DSA/Recursion - A Complete Guide.md",
+    "Sorting Algorithms",
+    "Python/Why make a copy when backtracking?.md",
+    "Interview Practice/HTML Interview Preparation.md",
+    "Obsidian Vault Index.md",
+    "Random Stuff/UAF and Type Confusion.md",
     "Interview Practice/Theory",
     "Interview Practice",
-    "Computer Networks.md",
-    "Why make a copy when backtracking?.md",
     "Doubts",
     "Interview Related Stuff/Commonly asked DBMS interview questions.md",
-    "Sorting Algorithms.md",
     "Random Stuff/Tech Stuff/Caret Browsing.md",
     "Random Stuff/Apache Hadoop.md",
-    "Breadth First Search.md",
-    "Breadth-First Search (BFS).md",
-    "DSA/Graph/DFS-Based Cycle Detection Algorithm.md",
-    "Obsidian Vault Index.md",
-    "Graph Terminologies.md",
-    "NodeJs.md",
-    "Web Development/React/React Hook Form (RHF) - Complete Documentation.md",
-    "ZOD.md",
-    "Web Development/ExpressJs/Middlewares/Importance Of Middlewares in a Server.md",
-    "Traning & Placement/Queue.md",
-    "System Design.md",
     "Pasted image 20250317155835.png",
-    "Web Development/Nextjs/router.push() vs redirect().md",
-    "DSA/Graph/Depth-First Search (DFS).md",
     "Untitled.canvas",
-    "DSA/Graph/Breadth-First Search (BFS) Algorithm.md",
-    "DSA/Graph/Graph Traversal Algorithms.md",
-    "Web Development/ExpressJs/Express.js Documentation (Detailed Guide).md",
     "Web Development/Auth/Middlewares",
     "Web Development/NPM",
     "Project/College_Attendance",
     "Web Development/API",
-    "NLP",
-    "Web Development/NodeJs",
-    "Python",
     "Traning & Placement/T&P Classes/Assets/tower-of-hanoi-python.gif"
   ]
 }

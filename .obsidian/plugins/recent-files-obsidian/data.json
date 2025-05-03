@@ -1,32 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "UAF and Type Confusion",
-      "path": "UAF and Type Confusion.md"
+      "basename": "Sorting Algorithms - A General Overview",
+      "path": "Sorting Algorithms/Sorting Algorithms - A General Overview.md"
     },
     {
-      "basename": "UAF Vulnerability",
-      "path": "Random Stuff/UAF Vulnerability.md"
+      "basename": "Sorting Algorithms",
+      "path": "Sorting Algorithms.md"
     },
     {
-      "basename": "Type Confusion Vulnerability",
-      "path": "Random Stuff/Type Confusion Vulnerability.md"
+      "basename": "Selection Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Selection Sort - A Detailed Overview.md"
     },
     {
-      "basename": "HTML Interview Preparation",
-      "path": "HTML Interview Preparation.md"
+      "basename": "Merge Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Merge Sort - A Detailed Overview.md"
+    },
+    {
+      "basename": "Bucket Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Bucket Sort - A Detailed Overview.md"
+    },
+    {
+      "basename": "Radix Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Radix Sort - A Detailed Overview.md"
+    },
+    {
+      "basename": "Counting Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Counting Sort - A Detailed Overview.md"
+    },
+    {
+      "basename": "Shell Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Shell Sort - A Detailed Overview.md"
+    },
+    {
+      "basename": "Tree Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Tree Sort - A Detailed Overview.md"
+    },
+    {
+      "basename": "Heap Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Heap Sort - A Detailed Overview.md"
+    },
+    {
+      "basename": "Quick Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Quick Sort - A Detailed Overview.md"
+    },
+    {
+      "basename": "Bubble Sort A Detailed Overview",
+      "path": "Sorting Algorithms/Bubble Sort A Detailed Overview.md"
+    },
+    {
+      "basename": "Insertion Sort - A Detailed Overview",
+      "path": "Sorting Algorithms/Insertion Sort - A Detailed Overview.md"
     },
     {
       "basename": "Computer Networks",
       "path": "Computer Networks.md"
     },
     {
-      "basename": "Why make a copy when backtracking?",
-      "path": "Why make a copy when backtracking?.md"
+      "basename": "Type Confusion Vulnerability",
+      "path": "Random Stuff/Type Confusion Vulnerability.md"
     },
     {
-      "basename": "Sorting Algorithms",
-      "path": "Sorting Algorithms.md"
+      "basename": "UAF Vulnerability",
+      "path": "Random Stuff/UAF Vulnerability.md"
+    },
+    {
+      "basename": "Linear Search (Sequential Search)",
+      "path": "DSA/Searching Algorithms/Linear Search (Sequential Search).md"
+    },
+    {
+      "basename": "Binary Search (Interval Search)",
+      "path": "DSA/Searching Algorithms/Binary Search (Interval Search).md"
+    },
+    {
+      "basename": "Recursion - A Complete Guide",
+      "path": "DSA/Recursion - A Complete Guide.md"
+    },
+    {
+      "basename": "Why make a copy when backtracking?",
+      "path": "Python/Why make a copy when backtracking?.md"
+    },
+    {
+      "basename": "HTML Interview Preparation",
+      "path": "Interview Practice/HTML Interview Preparation.md"
+    },
+    {
+      "basename": "Obsidian Vault Index",
+      "path": "Obsidian Vault Index.md"
+    },
+    {
+      "basename": "UAF and Type Confusion",
+      "path": "Random Stuff/UAF and Type Confusion.md"
     },
     {
       "basename": "Caret Browsing",
@@ -39,10 +103,6 @@
     {
       "basename": "DFS-Based Cycle Detection Algorithm",
       "path": "DSA/Graph/DFS-Based Cycle Detection Algorithm.md"
-    },
-    {
-      "basename": "Obsidian Vault Index",
-      "path": "Obsidian Vault Index.md"
     },
     {
       "basename": "React Hook Form (RHF) - Complete Documentation",
@@ -139,62 +199,6 @@
     {
       "basename": "Face Recognition Attendance System",
       "path": "Project/College_Attendance/Face Recognition Attendance System.md"
-    },
-    {
-      "basename": "Fast Node Manager (FNM)",
-      "path": "Web Development/NodeJs/Fast Node Manager (FNM).md"
-    },
-    {
-      "basename": "Multer",
-      "path": "Web Development/NPM/Multer.md"
-    },
-    {
-      "basename": "User Flow Design",
-      "path": "Project/College_Attendance/User Flow Design.md"
-    },
-    {
-      "basename": "What is ORM?",
-      "path": "Web Development/What is ORM?.md"
-    },
-    {
-      "basename": "Floyd-Warshall Algorithm",
-      "path": "DSA/Graph/Floyd-Warshall Algorithm.md"
-    },
-    {
-      "basename": "Dijkstra's Algorithm",
-      "path": "DSA/Graph/Dijkstra's Algorithm.md"
-    },
-    {
-      "basename": "Bellman-Ford Algorithm",
-      "path": "DSA/Graph/Bellman-Ford Algorithm.md"
-    },
-    {
-      "basename": "Edmonds-Karp Algorithm",
-      "path": "DSA/Graph/Edmonds-Karp Algorithm.md"
-    },
-    {
-      "basename": "Ways to represent a Graph",
-      "path": "DSA/Graph/Ways to represent a Graph.md"
-    },
-    {
-      "basename": "Graph Representation",
-      "path": "DSA/Graph/Graph Representation.md"
-    },
-    {
-      "basename": "Prim’s Algorithm",
-      "path": "DSA/Graph/Prim’s Algorithm.md"
-    },
-    {
-      "basename": "Kruskal’s Algorithm",
-      "path": "DSA/Graph/Kruskal’s Algorithm.md"
-    },
-    {
-      "basename": "Common Graph Algorithms",
-      "path": "DSA/Graph/Common Graph Algorithms.md"
-    },
-    {
-      "basename": "Ford-Fulkerson Algorithm",
-      "path": "DSA/Graph/Ford-Fulkerson Algorithm.md"
     }
   ],
   "omittedPaths": [],
